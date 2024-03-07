@@ -1,0 +1,19 @@
+/* Sections */
+.container {
+  padding: 2rem 1rem;
+  position: relative;
+}
+
+/* Section Header Content */
+.header-container {
+  background-color: #DDDDDD;
+  text-align: center;
+  padding: 6rem 1rem;
+}
+
+/* Option header */
+.option-container {
+  text-align: center;
+  background-color: #EEEEEE;
+  padding: 3rem 1rem;
+}
